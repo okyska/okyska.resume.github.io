@@ -1,0 +1,100 @@
+body {
+  color: #554659;
+  background-color: #f1f1f1;
+  font-family: 'Roboto Slab', serif;
+}
+.nav-link {
+  color: #868686;
+}
+.nav-item{
+  overflow: hidden;
+}
+
+.bg {
+  background: url(http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/css/trolltunga.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#content {
+
+  text-align: center;
+  padding-top: 35%;
+  padding-bottom: 10%;
+}
+
+
+#about, #portfolio, #contact, .skills {
+  padding-top: 50px;
+  
+}
+
+/**h1, h2, h3, h4, p, li, ul {
+  font-family: 'Roboto Slab', serif;
+}
+**/
+
+
+.sub {
+  font-size: 15px;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+li{
+  list-style-type: disc;
+  position: sticky;
+  
+}
+
+#data{
+  font-size: 15px;
+}
+
+ .fa-facebook {
+  color: white;
+}
+ .fa-twitter, .fa-github, .fa-linkedin, .fa-free-code-camp {
+  color: white;
+}
+ .fa-twitter {
+  color: white;
+}
+ 
+
+.description {
+  text-align: center;
+}
+
+.Contakt {
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 5%;
+}
+ 
+ #wrap{
+  font-size: 30px;
+  
+  background-color: #C4C4C4;
+  background-position: center;
+  width: 40%;
+  margin-left: 30%;
+
+
+ }
+ .about {
+  background-color: #fff;
+  margin: 16px;
+  box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.1);
+  padding-left: 10px;
+}
+
+
+
